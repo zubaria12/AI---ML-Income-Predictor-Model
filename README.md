@@ -46,11 +46,14 @@ This is a Python-based desktop application that predicts whether an individual's
 - `ttk` – Enhanced widget styling
 - `matplotlib.backends.backend_tkagg` – Embedding plots into GUI
 
+
 ## 📂 Project Structure
 
 .
 ├── main.py # Main application file with model, GUI, visualizations
+
 ├── README.md # You're here!
+
 
 
 ## 📦 Installation
@@ -59,15 +62,20 @@ This is a Python-based desktop application that predicts whether an individual's
 
 git clone https://github.com/zubaria12/AI---ML-Income-Predictor-Model.git
 cd income-predictor-ai
+
 Install required packages:
 scikit-learn
 pandas
 numpy
 matplotlib
 seaborn
+
 Run the app:
 python main.py
+  
+  
 👩‍💻 Authors
+
 Umar
 
 Zubaria
