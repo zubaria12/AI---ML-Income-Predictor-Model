@@ -1,0 +1,13 @@
+timestamp,age,workclass,education,education.num,marital.status,occupation,relationship,race,sex,capital.gain,capital.loss,hours.per.week,native.country,predicted_income_class,estimated_income,confidence
+2025-06-05 23:51:45,32.0,Local-gov,12th,12.0,Married-AF-spouse,Craft-repair,Other-relative,Amer-Indian-Eskimo,Male,131.0,32.0,35.0,Canada,<=50K,22800.0,0.15
+2025-06-05 23:56:27,11.0,Private,11th,1.0,Married-AF-spouse,Craft-repair,Not-in-family,Amer-Indian-Eskimo,Male,111.0,12.0,23.0,Columbia,<=50K,20560.0,0.08
+2025-06-06 00:02:32,12.0,Federal-gov,12th,11.0,Married-civ-spouse,Craft-repair,Husband,Asian-Pac-Islander,Female,123.0,1.0,23.0,Canada,<=50K,24400.0,0.2
+2025-06-06 01:10:23,22.0,Private,12th,13.0,Never-married,Tech-support,Unmarried,Asian-Pac-Islander,Male,100.0,20.0,20.0,Canada,<=50K,18320.0,0.01
+2025-06-06 01:19:31,16.0,Federal-gov,11th,11.0,Married-AF-spouse,Craft-repair,Not-in-family,Asian-Pac-Islander,Female,121.0,0.0,32.0,Canada,<=50K,23440.0,0.17
+2025-06-06 01:23:06,20.0,Federal-gov,12th,13.0,Married-AF-spouse,Craft-repair,Wife,White,Male,12.0,1.0,45.0,Columbia,<=50K,29200.0,0.35
+2025-06-06 01:30:20,24.0,Without-pay,12th,13.0,Never-married,Other-service,Unmarried,Asian-Pac-Islander,Male,0.0,0.0,0.0,Canada,<=50K,20240.0,0.07
+2025-06-06 01:31:23,24.0,Without-pay,12th,13.0,Never-married,Other-service,Unmarried,Asian-Pac-Islander,Male,0.0,0.0,0.0,Canada,<=50K,20240.0,0.07
+2025-06-06 01:38:45,40.0,Local-gov,Bachelors,16.0,Married-AF-spouse,Other-service,Husband,Black,Male,123.0,0.0,45.0,Canada,>50K,204450.0,0.61
+2025-06-06 01:50:55,23.0,Local-gov,1st-4th,11.0,Married-spouse-absent,Craft-repair,Husband,Asian-Pac-Islander,Male,11.0,1.0,21.0,Columbia,<=50K,22160.0,0.13
+2025-06-06 02:00:05,12.0,Private,12th,1.0,Married-civ-spouse,Farming-fishing,Other-relative,Black,Female,1.0,1.0,1.0,Canada,<=50K,19280.0,0.04
+2025-06-06 15:43:38,30.0,Private,12th,13.0,Married-spouse-absent,Armed-Forces,Not-in-family,Asian-Pac-Islander,Female,0.0,0.0,40.0,United-States,<=50K,18640.0,0.02
